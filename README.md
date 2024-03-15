@@ -5,29 +5,29 @@
 ## Description:
 #### Requested Goals:
 1. Use bootstrap5 html framework to code the webpage
-- [X]
+- [x] completed
 2. Image should only load when in viewport
-- [X]
+- [x] completed
 3. Webpage must be responsive and must use grid structure
-- [X]
+- [x] completed
 4. Use Vanilla Js/jQuery wherever is required, no external plugins allowed.
-- [X]
+- [x] completed
 5. Image box
     - must always be square and image,fill the box
-- [X]
+- [x] completed
 6. Image should not lose its aspect ratio
-- [X]
+- [x] completed
 7. Those boxes must be checkbox and image should be background image of those checkboxes
-- [X]
+-- [x] completed
 9. As the default property of checkbox:
-- [X]
+-- [x] completed
     - i should be able to select those image and selection should be highlighted with outline/border
     - [X] *black highlighting color when checked*
     - [X]  selection part must be done using only css without any js
     - [X]  Make sure padding between boxes are consistent vertically as well as horizontally.
 
 10. Make sure your submission should not include any patchy work
-- [X]
+- [x] completed
 
 Use Images attached in assignment
 

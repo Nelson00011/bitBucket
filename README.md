@@ -5,11 +5,11 @@
 ## Description:
 #### Requested Goals:
 1. Use bootstrap5 html framework to code the webpage
-- [x]
+- [X]
 2. Image should only load when in viewport
 - [X]
 3. Webpage must be responsive and must use grid structure
-- []
+- [X]
 4. Use Vanilla Js/jQuery wherever is required, no external plugins allowed.
 - [X]
 5. Image box
@@ -23,12 +23,11 @@
 - [X]
     - i should be able to select those image and selection should be highlighted with outline/border
     - [X] *black highlighting color when checked*
-    - selection part must be done using only css without any js
-     - [X]
-    - Make sure padding between boxes are consistent vertically as well as horizontally.
-     - [X]
+    - [X]  selection part must be done using only css without any js
+    - [X]  Make sure padding between boxes are consistent vertically as well as horizontally.
+
 10. Make sure your submission should not include any patchy work
- - [X]
+- [X]
 
 Use Images attached in assignment
 
@@ -66,15 +65,9 @@ Assignment Time :: approx. 2-3 hours
 ## Screen Shots:
 <p align="center">Please reference the screenshot folder for more available images</p>
 
-`selected image 1`
-
-`selected image 2`
-
-`selected image 3`
-
 ## Run Code (Environment)
 - `cd` into main folder and click the html file to run on local server.\
-    - No python or node.js involved
+    - No python or node.js involved, just vanilla javascript
 
 --------------------------
 ## Resources

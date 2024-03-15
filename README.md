@@ -66,7 +66,7 @@ Assignment Time :: approx. 2-3 hours
 <p align="center">Please reference the screenshot folder for more available images</p>
 
 ## Run Code (Environment)
-- `cd` into main folder and click the html file to run on local server.\
+- open index.html file in the src directory:
     - No python or node.js involved, just vanilla javascript
 
 --------------------------

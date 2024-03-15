@@ -18,9 +18,9 @@
 6. Image should not lose its aspect ratio
 - [x] completed
 7. Those boxes must be checkbox and image should be background image of those checkboxes
--- [x] completed
+- [x] completed
 9. As the default property of checkbox:
--- [x] completed
+- [x] completed
     - i should be able to select those image and selection should be highlighted with outline/border
     - [X] *black highlighting color when checked*
     - [X]  selection part must be done using only css without any js
